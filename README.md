@@ -1,4 +1,8 @@
-# GitHub Action - Create tag and release
+<h1 align="center">Create tag and release</h1>
+<p align="center">
+  <br>
+  <a href="https://github.com/marketplace/actions/create-tag-and-release"><strong>Marketplace »</strong></a>
+</p>
 
 This action automates the release and tag creation process, using the github api [https://docs.github.com/pt/rest/releases/releases?apiVersion=2022-11-28#create-a-release](https://docs.github.com/pt/rest/releases/releases?apiVersion=2022-11-28#create-a-release)
 
